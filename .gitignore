@@ -6,3 +6,6 @@ vendor/
 
 # OSX
 .DS_Store
+
+# Reports
+coverage.clover
