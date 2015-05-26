@@ -2,6 +2,9 @@
 
 Simple dot notation access for PHP arrays
 
+[![Build Status](https://travis-ci.org/glopezdetorre/dot-notation-access.svg?branch=master)](https://travis-ci.org/glopezdetorre/dot-notation-access)
+[![Code Coverage](https://scrutinizer-ci.com/g/glopezdetorre/dot-notation-access/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/glopezdetorre/dot-notation-access/?branch=master)
+
 ## Example
 
 ```
