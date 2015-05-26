@@ -1,0 +1,21 @@
+{
+    "name": "gorka/dot-notation-access",
+    "description": "Dot notation access arrays",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gorka López de Torre",
+            "email": "glopezdetorre@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gorka\\DotNotationAccess\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    }
+}
