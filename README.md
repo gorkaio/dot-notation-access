@@ -1,3 +1,5 @@
+__This project is unmaintained and might eventually be removed. Use it at your own risk.__
+
 # Dot notation accessor & dot notation access array
 
 Simple dot notation access for PHP arrays
